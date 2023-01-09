@@ -47,3 +47,13 @@ Lista de Tarefas
 add imagem
 
 ![add imagem](https://user-images.githubusercontent.com/84549096/211411603-72f73ee0-ad7e-4756-bb5c-341aadd7547f.jpeg)
+
+### Tabela
+
+Num | Nome | Nota
+
+---|---|---
+
+1 | Carlos | 7.5
+2 | Joana | 8
+3 | Mario | 6
