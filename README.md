@@ -5,3 +5,45 @@ Primeiro repositorio do curso GitHub
 Repositorio criado durante a aula
 
 Linha editada direto no gitHub Readme e posteriormente dando pull para levar ao repositorio local
+
+# Titulo
+
+## Titulo
+
+### Subtitulo
+
+_itálico_
+**negrito**
+
+---
+
+**negrito**
+_itálico_
+Posso _*misturar*_
+~~Traço~~
+
+Lista Ordenada (numerada)
+
+1. item
+   1. subitem
+1. item
+1. item
+
+Lista Demarcada
+
+- item
+- item
+  - subitem
+- item
+
+Lista de Tarefas
+
+- [x] tarefa
+- [ ] tarefa
+- [ ] tarefa
+
+[link Google](https:www.google.com.br)
+
+add imagem
+
+![add imagem](https://user-images.githubusercontent.com/84549096/211411603-72f73ee0-ad7e-4756-bb5c-341aadd7547f.jpeg)
