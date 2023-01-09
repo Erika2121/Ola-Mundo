@@ -59,6 +59,6 @@ Num | Nome | Nota
 Para destacar os códigos podemos usar as crases `código`
 
 Usando emojis :smile:
-tem um perfil que disponibilizou todos os codigos de emojis, é o github.com/ikatyang
+tem um perfil que disponibilizou todos os codigos de emojis, é o @ikatyang
 
-tem o site [siteemoji](https:www.emojipedia.org) tbm
+tem o site [siteemoji](https://www.emojipedia.org) tbm
