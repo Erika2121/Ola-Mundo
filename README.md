@@ -57,3 +57,10 @@ Num | Nome | Nota
 1 | Carlos | 7.5
 2 | Joana | 8
 3 | Mario | 6
+
+Para destacar os códigos podemos usar as crases `código`
+
+Usando emojis :smile:
+tem um perfil que disponibilizou todos os codigos de emojis, é o github.com/ikatyang
+
+tem o site [siteemoji](https:www.emojipedia.org) tbm
