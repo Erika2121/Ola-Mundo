@@ -50,11 +50,11 @@ add imagem
 
 ### Tabela
 
-Num | Nome | Nota
----|---|---
-1 | Carlos | 7.5
-2 | Joana | 8
-3 | Mario | 6
+| Num | Nome   | Nota |
+| --- | ------ | ---- |
+| 1   | Carlos | 7.5  |
+| 2   | Joana  | 8    |
+| 3   | Mario  | 6    |
 
 Para destacar os códigos podemos usar as crases `código`
 
